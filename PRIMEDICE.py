@@ -11,4 +11,5 @@ while t:
         print("Alice")
     else:
         print("Bob")
+    t-=1
         
