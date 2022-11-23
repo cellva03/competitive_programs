@@ -9,5 +9,6 @@ while t:
                 break
     if flag:
         print("Alice")
-    
+    else:
+        print("Bob")
         
