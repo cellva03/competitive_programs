@@ -7,8 +7,8 @@ while t:
             rest = ((x//3)-1)*z
             print((x*y)+rest)
         else:
-            rest = ((x//3)+1)*z
-            print((x*y)+z)
+            rest = (x//3)*z
+            print((x*y)+rest)
     else:
         print(x*y)
     t-=1
