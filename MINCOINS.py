@@ -5,4 +5,7 @@ while t:
         if x%10 == 0:
             print(x//10)
         else:
-            print()
+            print((x//10)+1)
+    else:
+        print(-1)
+    t-=1
