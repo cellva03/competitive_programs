@@ -1,5 +1,11 @@
 def fun(li):
-
+    c=0
+    for i in li:
+        if i <=10 and i >=60:
+            c+=1
+        else:
+            continue
+    return c
 
 t = int(input())
 while t:
