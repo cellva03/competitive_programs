@@ -5,4 +5,4 @@ for _ in range(int(input())):
     elif x > y:
         print("NEW PHONE")
     else:
-        
+        print("REPAIR")
