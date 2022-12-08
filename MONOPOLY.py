@@ -5,3 +5,5 @@ for _ in range(int(input())):
     l.remove(maxi)
     if (l[0]+l[1]) < maxi:
         print("yes")
+    else:
+        print("no")
