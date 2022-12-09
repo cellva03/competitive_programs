@@ -5,4 +5,4 @@ for _ in range(int(input())):
     elif ((y*z)+x) < x:
         print("unfilled")
     else:
-        
+        print("filled")
