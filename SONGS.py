@@ -1,3 +1,4 @@
 for _ in range(int(input())):
     n, x = map(int,input().split())
-    res 
+    res = n//(3*x)
+    
