@@ -1,2 +1,2 @@
 for _ in range(int(input())):
-    n, x 
+    n, x = map(int,input())
