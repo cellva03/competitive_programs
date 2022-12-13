@@ -1,4 +1,4 @@
 for _ in range(int(input())):
     c, x, y = map(int,input().split())
-    rest = c-x
-    print(rest*y)
+    res = c-x
+    print(res*y)
