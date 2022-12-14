@@ -3,4 +3,5 @@ for _ in range(int(input())):
     if x > z:
         print(0)
     elif (x+y) < z:
-        
+        print(2)
+    
