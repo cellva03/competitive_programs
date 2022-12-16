@@ -3,4 +3,5 @@ for _ in range(int(input())):
     res = float(x+y)
     if res > z:
         print("Yes")
-    
+    else:
+        print("No")
