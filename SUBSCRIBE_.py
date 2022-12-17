@@ -3,5 +3,7 @@ for _ in range(int(input())):
     if n > 6:
         res = (n//6)+1
         print(res*x)
+    else:
+        print(x)
 
         
