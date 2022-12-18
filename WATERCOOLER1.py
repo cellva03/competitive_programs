@@ -3,3 +3,4 @@ for _ in range(int(input())):
     res = x*m
     if res >= y:
         print("No")
+    else:
