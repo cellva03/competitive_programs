@@ -4,3 +4,4 @@ for _ in range(int(input())):
     if res >= y:
         print("No")
     else:
+        print("Yes")
