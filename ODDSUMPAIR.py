@@ -9,4 +9,6 @@ for _ in range(int(input())):
             odd = True
     if odd and even:
         print("Yes")
+    else:
+        print("No")
     
