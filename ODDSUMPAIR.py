@@ -7,4 +7,6 @@ for _ in range(int(input())):
             even = True
         else:
             odd = True
+    if odd and even:
+        print("Yes")
     
