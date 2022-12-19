@@ -3,4 +3,8 @@ for _ in range(int(input())):
     odd = False
     even = False
     for i in l:
-        
+        if i % 2 == 0:
+            even = True
+        else:
+            odd = True
+    
