@@ -4,4 +4,4 @@ for _ in range(int(input())):
     if x > 10:
         print("No")
     else:
-        
+        print("Yes")
