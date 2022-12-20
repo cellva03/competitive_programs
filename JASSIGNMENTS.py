@@ -1,4 +1,4 @@
-for _ in range(int(input())):
+for i in range(int(input())):
     x = int(input())
     x+=3
     if x > 10:
