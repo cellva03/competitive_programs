@@ -1,3 +1,3 @@
 for _ in range(int(input())):
     x = int(input())
-    res
+    res = 100
