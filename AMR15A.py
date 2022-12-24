@@ -1,2 +1,2 @@
 n = int(input())
-a = list()
+a = list(map())
