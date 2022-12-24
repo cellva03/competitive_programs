@@ -6,4 +6,5 @@ for i in a:
     if i % 2 == 0:
         e+=1
     else:
-        o+=1    
+        o+=1
+if e > o:    
