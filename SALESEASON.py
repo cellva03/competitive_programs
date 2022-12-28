@@ -6,4 +6,5 @@ for _ in  range(int(input())):
         print(x-25)
     elif x > 1000 and x <= 5000:
         print(x-100)
-    
+    else:
+        
