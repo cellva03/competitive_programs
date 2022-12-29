@@ -1,2 +1,2 @@
 for _ in range(int(input())):
-    x, y, z
+    x, y, a = map(int,input().split())
