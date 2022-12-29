@@ -3,4 +3,4 @@ for _ in range(int(input())):
     if a >= x and a < y:
         print("Yes")
     else:
-        
+        print('No')
