@@ -4,3 +4,4 @@ for _ in range(int(input())):
   if x > 100:
     print(x-10)
   else:
+    print()
