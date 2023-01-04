@@ -1,1 +1,2 @@
-x, y z = map(int,input().split())
+x, y, z = map(int,input().split())
+print((x-y)," ",(x-y-z) )
