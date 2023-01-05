@@ -3,4 +3,4 @@ for _ in range(int(input())):
     if x >= h:
         print("Yes")
     else:
-        print()
+        print("")
