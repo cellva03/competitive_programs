@@ -7,3 +7,5 @@ for _ in range(int(input())):
    c=0
    
    for i in s:
+      if i not in vowels:
+            c += 1
