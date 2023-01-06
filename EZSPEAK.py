@@ -16,3 +16,5 @@ for _ in range(int(input())):
             res = True
    if(res):
         print("No")            
+   else:
+        print("Yes")
