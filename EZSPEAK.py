@@ -14,3 +14,5 @@ for _ in range(int(input())):
       
       if c >=4:
             res = True
+   if(res):
+        print("No")            
