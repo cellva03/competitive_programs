@@ -9,3 +9,5 @@ for _ in range(int(input())):
    for i in s:
       if i not in vowels:
             c += 1
+      else:
+            c = 0
