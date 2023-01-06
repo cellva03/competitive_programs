@@ -11,3 +11,6 @@ for _ in range(int(input())):
             c += 1
       else:
             c = 0
+      
+      if c >=4:
+            res = True
