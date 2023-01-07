@@ -5,3 +5,4 @@ for _ in range(int(input())):
     elif((a == a2 and b == b2) or (a == b2 and b == a2)):
         print(2)
     else:
+        print(0)
