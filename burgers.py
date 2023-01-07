@@ -1,5 +1,3 @@
-t = int(input())
-while t :
-    a,b = map(int,input().split())
-    print(min(a,b))
-    t-=1
+for _ in range(int(input())):
+    x, y = map(int,input().split())
+    print(min(x,y))

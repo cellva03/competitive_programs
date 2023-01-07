@@ -1,10 +1,3 @@
-# cook your dish here
-t = int(input())
-while t:
-    # TODO: write code...
-    x = int(input())
-    if x>=30:
-        print("YES")
-    else:
-        print("NO")
-    t-=1
+for _ in range(int(input())):
+    x, y = map(int,input().split())
+    print("A") if x > y else print("B")
