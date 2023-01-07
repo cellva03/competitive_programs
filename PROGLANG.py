@@ -1,1 +1,1 @@
-for _ in range()
+for _ in range(int(input())):
