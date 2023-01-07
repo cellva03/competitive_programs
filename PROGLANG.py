@@ -1,2 +1,2 @@
 for _ in range(int(input())):
-    a, b, a1, b1, a2, b2
+    a, b, a1, b1, a2, b2 = list(map(int,input().split()))
