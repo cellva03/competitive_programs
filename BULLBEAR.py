@@ -5,5 +5,6 @@ for _ in range(int(input())):
   elif x > y:
     print("LOSS")
   else:
+    print("PROFIT")
     
     
