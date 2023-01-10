@@ -4,4 +4,6 @@ for _ in range(int(input())):
     print("NEUTRAL")
   elif x > y:
     print("LOSS")
+  else:
+    
     
