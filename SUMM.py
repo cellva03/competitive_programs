@@ -3,3 +3,4 @@ for _ in range(int(input())):
   if (a+b) == c:
     print("Yes")
   else:
+    print("No")
