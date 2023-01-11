@@ -1,6 +1,7 @@
+# cook your dish here
 for _ in range(int(input())):
-  x, y = map(int,input().split())
-  if x >= y :
+  x= int(input())
+  if x <= 30 :
     print("No")
   else:
     print("Yes")
