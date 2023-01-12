@@ -4,5 +4,5 @@ for _ in range(int(input())):
   if res > n:
     print("No")
   else:
-    print("")
+    print("Yes")
     
