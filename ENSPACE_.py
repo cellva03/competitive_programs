@@ -3,3 +3,5 @@ for _ in range(int(input())):
   res = x + (y*2)
   if res > n:
     print("No")
+  else:
+    
