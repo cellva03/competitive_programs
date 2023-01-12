@@ -1,2 +1,2 @@
 for _ in range(int(input())):
-  n, x, y
+  n, x, y = map(int,input().split())
