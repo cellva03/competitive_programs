@@ -9,3 +9,5 @@ for _ in range(t):
       g=z-k
       result=(a*y*y)+g*g
       print(result)
+   else:
+        print(x*y*y)
