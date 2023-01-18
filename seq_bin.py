@@ -5,6 +5,6 @@ for _ in range(int(input())):
     elif n >= 4:
         for i in range(0,n):
             if i == 0:
-                print('0',end='')
+                print('1',end='')
             elif i == 1:
-                pr
+                print('0',end='')
