@@ -11,4 +11,8 @@ for _ in range(int(input())):
             elif i == n-2:
                 print('0',end='')
             elif i == n-1:
-                print()
+                print('1',end='')
+            else:
+                print('1',end='')
+    else:
+        print('11')
