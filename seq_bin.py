@@ -8,3 +8,7 @@ for _ in range(int(input())):
                 print('1',end='')
             elif i == 1:
                 print('0',end='')
+            elif i == n-2:
+                print('0',end='')
+            elif i == n-1:
+                print()
